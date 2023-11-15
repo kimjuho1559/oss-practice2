@@ -1,2 +1,2 @@
 # oss-practice2
-세번째 코밋
+devel 첫번째 코밋
